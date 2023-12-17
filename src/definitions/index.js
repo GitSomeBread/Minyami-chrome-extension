@@ -20,7 +20,8 @@ export const supportedSites = [
     "live.bilibili.com",
     "playervspf.channel.or.jp",
     "nicochannel.jp",
-    "pizzaradio.jp"
+    "pizzaradio.jp",
+    "rizuna-official.com/"
 ];
 export const needCookiesSites = ["360ch.tv"];
 export const needKeySites = [
